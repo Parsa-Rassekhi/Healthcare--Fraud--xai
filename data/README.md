@@ -2,12 +2,10 @@
 
 The dataset used in this project is available at:
 
-👉 https://your-link-here.com
+👉  
 
 Description:
-- Source: ...
-- Number of samples: ...
-- Features: ...
+- Source: The datasets used in this study were obtained initially from the China University Student Service Outsourcing Innovation and Entrepreneurship Competition.
+- Number of samples: 16000
 
-Note:
-The dataset is not included due to size or privacy reasons.
+
