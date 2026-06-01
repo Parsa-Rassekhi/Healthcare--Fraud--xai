@@ -1,22 +1,33 @@
 # Healthcare Fraud Detection with Explainable AI
 
 ## Overview
-This project develops a robust machine learning framework to detect healthcare fraud using XAI techniques.
 
-## Models
-- XGBoost
-- LightGBM
-- CatBoost
+This project presents a machine learning framework for healthcare fraud detection, enhanced with Explainable AI (XAI) techniques to improve model transparency and interpretability.
+
+## Methodology
+
+The study evaluates multiple gradient boosting models, including:
+
+* XGBoost
+* LightGBM
+* CatBoost
 
 ## Explainability
-- SHAP analysis
+
+Model interpretability is achieved using SHAP (SHapley Additive exPlanations) to analyze feature importance and ensure transparency in predictions.
 
 ## Dataset
-See [data/README.md](https://github.com/Parsa-Rassekhi/Healthcare--Fraud--xai/blob/main/data/Healthcare_Fraud_1600.csv)
 
-## How to Run
-1. Install requirements
-2. Run the model
+The dataset used in this project is stored in the repository under:
+
+`data/Healthcare_Fraud_1600.csv`
+
+A detailed description of the dataset is provided in `data/README.md`.
+
+## Code and Results
+
+All implementation, experiments, and visualizations are available in the Jupyter Notebook located in the `notebooks/` directory.
 
 ## Author
+
 Parsa Rassekhi
