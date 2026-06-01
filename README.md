@@ -12,7 +12,7 @@ This project develops a robust machine learning framework to detect healthcare f
 - SHAP analysis
 
 ## Dataset
-See data/README.md
+See [data/README.md](https://github.com/Parsa-Rassekhi/Healthcare--Fraud--xai/blob/main/data/Healthcare_Fraud_1600.csv)
 
 ## How to Run
 1. Install requirements
