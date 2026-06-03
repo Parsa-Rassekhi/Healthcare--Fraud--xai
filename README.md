@@ -20,7 +20,7 @@ Model interpretability is achieved using SHAP (SHapley Additive exPlanations) to
 
 The dataset used in this project is stored in the repository under:
 
-`data/Healthcare_Fraud_1600.csv`
+`data/[Neusoft Group A08] Medical Insurance Feature Data 16000 (Revised Edition) - Copy.csv`
 
 A detailed description of the dataset is provided in `data/README.md`.
 
