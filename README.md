@@ -26,7 +26,7 @@ A detailed description of the dataset is provided in `data/README.md`.
 
 ## Code and Results
 
-All implementation, experiments, and visualizations are available in the Jupyter Notebook located in the `notebooks/` directory.
+All implementation, experiments, and visualizations are available in the Jupyter Notebook located in the `XAI-Fraud-Detection.ipynb` directory.
 
 ## Author
 
