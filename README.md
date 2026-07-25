@@ -22,7 +22,7 @@ The dataset used in this project is stored in the repository under:
 
 `data/[Neusoft Group A08] Medical Insurance Feature Data 16000 (Revised Edition) - Copy.csv`
 
-A detailed description of the dataset is provided in `data/README.md`.
+A detailed description of the dataset is provided in 'notebook/XAI-Fraud-Detection.ipynb'.
 
 ## Code and Results
 
