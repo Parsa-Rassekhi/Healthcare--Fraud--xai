@@ -22,11 +22,10 @@ The dataset used in this project is stored in the repository under:
 
 `data/[Neusoft Group A08] Medical Insurance Feature Data 16000 (Revised Edition) - Copy.csv`
 
-A detailed description of the dataset is provided in 'notebook/XAI-Fraud-Detection.ipynb'.
 
 ## Code and Results
 
-All implementation, experiments, and visualizations are available in the Jupyter Notebook located in the `XAI-Fraud-Detection.ipynb`.
+All implementation, experiments, and visualizations are available in the Jupyter Notebook located in the `notebook/XAI-Fraud-Detection.ipynb`.
 
 ## Author
 
